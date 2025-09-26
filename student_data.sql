@@ -1,0 +1,15 @@
+-- Create database studentperformance;
+-- use studentperformance;
+-- CREATE TABLE Students (
+-- 	id int primary key auto_increment,
+--     Student_ID VARCHAR(10) ,
+--     Name VARCHAR(50),
+--     Gender VARCHAR(10),
+--     School VARCHAR(20),
+--     Attendance INT,
+--     Math_Score INT,
+--     Science_Score INT,
+--     Engineering_Score INT,
+--     Technology_Score INT,
+--     Overall_Average DECIMAL(5,2)
+-- );students
